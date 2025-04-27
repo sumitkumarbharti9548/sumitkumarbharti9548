@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitkumarbharti9548" alt="sumitkumarbharti9548" /></a> </p>
 
-- 🔭 I’m currently working on [e commerce](http://127.0.0.1:5501/home.html)
+- 🔭 I’m currently working on [e commerce]https://sumitkumarbharti9548.github.io/my-website/
 
 - 🌱 I’m currently learning **java**
 
 - 👯 I’m looking to collaborate on **hotel management**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5502/product.html](http://127.0.0.1:5502/product.html)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **html,python,c,c++**
 
