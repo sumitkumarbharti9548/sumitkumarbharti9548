@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sumit kumar bharti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate App developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumarbharti9548&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumarbharti9548" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on mobile app devlopment in flutter
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **flutter**
 
 - 👯 I’m looking to collaborate on **bank management system using java**
 
 - 👨‍💻 All of my projects are available at 
 
-- 💬 Ask me about **html,python,c,c++**
+- 💬 Ask me about **html,python,c,c++, dart , flutter**
 
 - 📫 How to reach me **sumitkumar954821@gmail.com**
 
