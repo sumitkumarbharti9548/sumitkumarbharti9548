@@ -104,6 +104,7 @@ I aim to become a **Software Engineer / Cloud Computing Engineer** and build sca
 
 💻 **GitHub:** github.com/sumitkumarbharti9548
 
+💻 **Linkedin:**  www.linkedin.com/in/sumitkumar9548
 ---
 
 ⭐ **Feel free to explore my repositories and connect with me!**
